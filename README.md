@@ -1,0 +1,1 @@
+Scripts for geoprocessing. Scripts in google_colab intended to be run in the google colab environment (Paste Scripts in Colab Notebooks Folder of Google Drive). Scripts in the pyqgis_terminal folder are intended to be run in the pyqgis terminal (in QGIS).  
